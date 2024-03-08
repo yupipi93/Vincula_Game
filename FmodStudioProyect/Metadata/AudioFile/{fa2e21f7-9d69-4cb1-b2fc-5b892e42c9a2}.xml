@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{fa2e21f7-9d69-4cb1-b2fc-5b892e42c9a2}">
+		<property name="assetPath">
+			<value>Esternos/Door/get-out-1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0316041666666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b55c1135-45cf-4770-82ef-a095e91379bf}</destination>
+		</relationship>
+	</object>
+</objects>

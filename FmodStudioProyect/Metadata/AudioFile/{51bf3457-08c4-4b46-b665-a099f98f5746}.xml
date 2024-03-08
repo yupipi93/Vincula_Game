@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{51bf3457-08c4-4b46-b665-a099f98f5746}">
+		<property name="assetPath">
+			<value>Esternos/IP/Bells/bell-3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.1072916666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b55c1135-45cf-4770-82ef-a095e91379bf}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{61b3463a-add7-494e-be25-b832cb5c8b38}">
+		<property name="assetPath">
+			<value>Esternos/Ambient/B1/horror_bird_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0268480725623583</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b55c1135-45cf-4770-82ef-a095e91379bf}</destination>
+		</relationship>
+	</object>
+</objects>

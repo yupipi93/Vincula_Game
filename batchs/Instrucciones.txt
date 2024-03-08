@@ -1,0 +1,6 @@
+-Para lanzar el juego ejecuta el archivo "Vincula.bat".
+-Tu sistema puede detectarlo como peligroso, esto se
+debe a que es un proyecto todavía en desarrollo.
+-Si la tipografía no se ajusta bien, prueba a lanzar
+el .bat adecuado a tu resolución de la carpeta
+"manual_resolutions"

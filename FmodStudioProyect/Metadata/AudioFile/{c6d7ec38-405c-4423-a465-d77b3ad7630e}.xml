@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{c6d7ec38-405c-4423-a465-d77b3ad7630e}">
+		<property name="assetPath">
+			<value>Esternos/Ambient/B5/horror-1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.619591836734694</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b55c1135-45cf-4770-82ef-a095e91379bf}</destination>
+		</relationship>
+	</object>
+</objects>

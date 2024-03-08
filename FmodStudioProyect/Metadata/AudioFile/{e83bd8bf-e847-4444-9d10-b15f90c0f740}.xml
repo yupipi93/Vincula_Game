@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e83bd8bf-e847-4444-9d10-b15f90c0f740}">
+		<property name="assetPath">
+			<value>Esternos/Player/FoodStep/footstep09.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.21522916666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b55c1135-45cf-4770-82ef-a095e91379bf}</destination>
+		</relationship>
+	</object>
+</objects>

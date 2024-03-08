@@ -1,0 +1,71 @@
+//DONT FORGET ADD SYSTEM IN SYSTEMS ARRAY
+
+#include <sys/MapSystem.hpp>
+#include <sys/CollisionSystem.hpp>
+#include <sys/SensorSystem.hpp>
+#include <sys/InputSystem.hpp>
+#include <sys/PhysicsSystem.hpp>
+#include <sys/CameraSystem.hpp>
+#include <sys/StatsSystem.hpp>
+#include <sys/BaseSystem.hpp>
+#include <sys/WalletSystem.hpp>
+#include <sys/StateSystem.hpp>
+#include <sys/AttackSystem.hpp>
+#include <sys/AIDirectorSystem.hpp>
+#include <sys/InteractionSystem.hpp>
+#include <sys/TerrainSystem.hpp>
+#include <sys/DeathSystem.hpp>
+#include <sys/SolidSystem.hpp>
+#include <sys/SoundSystem.hpp>
+#include <sys/ObstacleSystem.hpp>
+#include <sys/InventorySystem.hpp>
+#include <sys/ProximitySystem.hpp>
+#include <sys/ChangeBiomeSystem.hpp>
+#include <sys/InfoActionSystem.hpp>
+#include <sys/TutorialSystem.hpp>
+#include <sys/InfoNotificationSystem.hpp>
+#include <sys/EffectsSystem.hpp>
+#include <sys/EffectsColorSystem.hpp>
+#include <sys/WaypointSystem.hpp>
+#include <sys/VisibleSystem.hpp>
+#include <sys/GenerateZoneSystem.hpp>
+#include <sys/ChestSystem.hpp>
+#include <sys/BoxesSystem.hpp>
+#include <sys/CoinDetectorSystem.hpp>
+#include <sys/CompassSystem.hpp>
+#include <sys/SecureSystem.hpp>
+#include <sys/DialogueSystem.hpp>
+#include <sys/DetectionSignSystem.hpp>
+#include <sys/LevitationSystem.hpp>
+#include <sys/LightSystem.hpp>
+#include <sys/MouseLightSystem.hpp>
+#include <sys/TimeSystem.hpp>
+#include <sys/FinalStatisticsSystem.hpp>
+#include <sys/AnimationSystem.hpp>
+
+#include <sys/states/GameOverSystem.hpp>
+#include <sys/states/PauseSystem.hpp>
+#include <sys/states/WinSystem.hpp>
+#include <sys/states/ExitSystem.hpp>
+#include <sys/states/MainMenuSystem.hpp>
+#include <sys/states/LoadingSystem.hpp>
+
+#include <sys/ai/AIMoveToSystem.hpp>
+#include <sys/ai/AIStateMachineSystem.hpp>
+#include <sys/ai/AIStandByStateSystem.hpp>
+#include <sys/ai/AICombatStateSystem.hpp>
+#include <sys/ai/AIOffensiveStateSystem.hpp>
+#include <sys/ai/AIDefensiveStateSystem.hpp>
+
+#include <sys/ai/actions/AIActionThreatenSystem.hpp>
+#include <sys/ai/actions/AIActionMeleSystem.hpp>
+#include <sys/ai/actions/AIActionDistanceSystem.hpp>
+#include <sys/ai/actions/AIActionWanderSystem.hpp>
+#include <sys/ai/actions/AIActionEscapeSystem.hpp>
+#include <sys/ai/actions/AIActionLungeSystem.hpp>
+#include <sys/ai/actions/AIActionKeepDistanceSystem.hpp>
+#include <sys/ai/actions/AIActionRegroupSystem.hpp>
+
+
+
+

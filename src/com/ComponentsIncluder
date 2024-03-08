@@ -1,0 +1,79 @@
+//DONT FORGET INCLUDE NEW COMPONENT IN ERASE ENTITY (entityManager.cpp)
+
+#include <com/ai/AIComponent.hpp>
+#include <com/ai/AIDifuseActionComponent.hpp>
+#include <com/ai/AIDifuseStateComponent.hpp>
+
+
+#include <com/ai/target/AITargetComponent.hpp>
+#include <com/ai/target/AIStandByComponent.hpp>
+#include <com/ai/target/AICombatComponent.hpp>
+#include <com/ai/target/AIOffensiveComponent.hpp>
+#include <com/ai/target/AIDefensiveComponent.hpp>
+#include <com/ai/target/AIMoveTo3DComponent.hpp>
+#include <com/ai/target/AIMoveToComponent.hpp>
+
+#include <com/ai/actions/AIActionComponent.hpp>
+#include <com/ai/actions/AIActionThreatenComponent.hpp>
+#include <com/ai/actions/AIActionEscapeComponent.hpp>
+#include <com/ai/actions/AIActionWanderComponent.hpp>
+#include <com/ai/actions/AIActionMeleeComponent.hpp>
+#include <com/ai/actions/AIActionLungeComponent.hpp>
+#include <com/ai/actions/AIActionDistanceComponent.hpp>
+#include <com/ai/actions/AIActionKeepDistanceComponent.hpp>
+#include <com/ai/actions/AIActionRegroupComponent.hpp>
+
+
+#include <com/DashComponent.hpp>
+#include <com/AtributesComponent.hpp>
+#include <com/InputComponent.hpp>
+#include <com/InventoryComponent.hpp>
+#include <com/InteractionComponent.hpp>
+#include <com/MapComponent.hpp>
+
+#include <com/BoundingComponent.hpp>
+#include <com/CollisionComponent.hpp>
+#include <com/WalletComponent.hpp>
+#include <com/CoinComponent.hpp>
+#include <com/SoundComponent.hpp>
+#include <com/SituationComponent.hpp>
+#include <com/DrawableComponent.hpp>
+#include <com/StatsComponent.hpp>
+#include <com/VelocityComponent.hpp>
+#include <com/DirectorDataComponent.hpp>
+#include <com/AttackComponent.hpp>
+#include <com/TerrainDataComponent.hpp>
+#include <com/TerrainCubeComponent.hpp>
+#include <com/HUDComponent.hpp>
+#include <com/WeaponComponent.hpp>
+#include <com/MeleeWeaponComponent.hpp>
+#include <com/DistanceWeaponComponent.hpp>
+#include <com/KeyComponent.hpp>
+#include <com/ProximityComponent.hpp>
+#include <com/ObstacleComponent.hpp>
+#include <com/EffectWinHeartComponent.hpp>
+#include <com/EffectPoisonComponent.hpp>
+#include <com/EffectParalysisComponent.hpp>
+#include <com/EffectSlowdownComponent.hpp>
+#include <com/EffectMagnifyBulletComponent.hpp>
+#include <com/WaypointComponent.hpp>
+#include <com/EnemyComponent.hpp>
+#include <com/WallComponent.hpp>
+#include <com/IPDataComponent.hpp>
+#include <com/EggDataComponent.hpp>
+#include <com/ChestComponent.hpp>
+#include <com/Drawable2DComponent.hpp>
+#include <com/CoinDetectorComponent.hpp>
+#include <com/ObstacleDataComponent.hpp>
+#include <com/InfoBoxComponent.hpp>
+#include <com/MessageBoxComponent.hpp>
+#include <com/NotificationComponent.hpp>
+#include <com/CompassComponent.hpp>
+#include <com/LevelComponent.hpp>
+#include <com/DialogueComponent.hpp>
+#include <com/IPPartComponent.hpp>
+#include <com/SecureZoneComponent.hpp>
+#include <com/DetectionSignComponent.hpp>
+#include <com/LevitationComponent.hpp>
+#include <com/LightComponent.hpp>
+#include <com/IluminationComponent.hpp>

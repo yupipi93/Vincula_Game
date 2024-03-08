@@ -1,0 +1,14 @@
+#include <enum/EntityType.hpp>
+
+#include <enum/AiAction.hpp>
+#include <enum/AiState.hpp>
+#include <enum/CollisionType.hpp>
+#include <enum/EffectType.hpp>
+#include <enum/EntityType.hpp>
+#include <enum/GameState.hpp>
+#include <enum/KeyType.hpp>
+#include <enum/SoundState.hpp>
+#include <enum/GameObjectType.hpp>
+#include <enum/EnemyAnimation.hpp>
+
+

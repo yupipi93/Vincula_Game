@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="MasterTagFolder" id="{8b3ed2e3-4438-487d-9a38-f70b4f8d096c}">
+		<property name="name">
+			<value>Master</value>
+		</property>
+		<relationship name="items">
+			<destination>{71abcc72-8913-4106-979c-76a6c4b13c6f}</destination>
+			<destination>{8ff0913a-f4d3-4bb3-9fca-4d70f64849ea}</destination>
+			<destination>{d696b35a-bf27-4b54-a475-343698187cf7}</destination>
+			<destination>{9e793ecc-ee07-48a9-a7d1-05db19f15323}</destination>
+			<destination>{66eb6279-ad6f-4e93-b2d2-6f0a2bce0bf7}</destination>
+			<destination>{08609ee2-c114-4c7e-a9ee-2dff944cb3a6}</destination>
+			<destination>{8de1c58b-7edf-4e99-9627-73e580c6db90}</destination>
+			<destination>{c16f59c9-99ab-4418-9360-3c525141a5e7}</destination>
+			<destination>{7d3d1b0a-abb2-43b3-8f33-bf49682019e4}</destination>
+			<destination>{a621569c-86fe-4659-9338-2c7dd6db74d1}</destination>
+		</relationship>
+	</object>
+	<object class="Tag" id="{71abcc72-8913-4106-979c-76a6c4b13c6f}">
+		<property name="name">
+			<value>shoot</value>
+		</property>
+	</object>
+	<object class="Tag" id="{8ff0913a-f4d3-4bb3-9fca-4d70f64849ea}">
+		<property name="name">
+			<value>Musica</value>
+		</property>
+	</object>
+	<object class="Tag" id="{d696b35a-bf27-4b54-a475-343698187cf7}">
+		<property name="name">
+			<value>de</value>
+		</property>
+	</object>
+	<object class="Tag" id="{9e793ecc-ee07-48a9-a7d1-05db19f15323}">
+		<property name="name">
+			<value>cada</value>
+		</property>
+	</object>
+	<object class="Tag" id="{66eb6279-ad6f-4e93-b2d2-6f0a2bce0bf7}">
+		<property name="name">
+			<value>Ambiente</value>
+		</property>
+	</object>
+	<object class="Tag" id="{08609ee2-c114-4c7e-a9ee-2dff944cb3a6}">
+		<property name="name">
+			<value>Hard</value>
+		</property>
+	</object>
+	<object class="Tag" id="{8de1c58b-7edf-4e99-9627-73e580c6db90}">
+		<property name="name">
+			<value>Diegetico</value>
+		</property>
+	</object>
+	<object class="Tag" id="{c16f59c9-99ab-4418-9360-3c525141a5e7}">
+		<property name="name">
+			<value>DiegetcoFoley</value>
+		</property>
+	</object>
+	<object class="Tag" id="{7d3d1b0a-abb2-43b3-8f33-bf49682019e4}">
+		<property name="name">
+			<value>Foley</value>
+		</property>
+	</object>
+	<object class="Tag" id="{a621569c-86fe-4659-9338-2c7dd6db74d1}">
+		<property name="name">
+			<value>Ambience</value>
+		</property>
+	</object>
+</objects>

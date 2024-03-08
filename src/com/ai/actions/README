@@ -1,0 +1,2 @@
+//Remember add the new Action Componet in tools/AIfunctions.cpp (Switch and removeAiAction)
+//Add in the enum AiAction too
